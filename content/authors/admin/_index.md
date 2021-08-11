@@ -1,21 +1,17 @@
 ---
-role: ""
+role: Graduate Student
 avatar_filename: 39702812392_02e8585020_o.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Conservation
   - Science
-  - Sport
   - Cooking
+  - Sports
   - Birds
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/domjanus
 organizations:
   - name: University of British Columbia
     url: ""
@@ -29,6 +25,6 @@ highlight_name: false
 title: Dominic Janus
 email: ""
 ---
-Future MSc student in the Conservation Decisions Lab at the University of British Columbia.
+I'm a Masters student in the Conservation Decisions Lab at the University of British Columbia. Currently, my research is focused on the ecological impacts of invasive Canada Geese in the Fraser River Estuary and questions related to demographics and distibution of Canada Geese in Metro Vancouver.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check out my {{< staticref "https://www.taramartin.org" "newtab" >}}lab's website{{< /staticref >}}.
