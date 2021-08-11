@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Dom Janus" # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'dominicjanus' # Website URL
+copyright: '© {2021} Dominic Janus' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -23,7 +23,7 @@ removePathAccents: true
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+#    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
 ############################
 ## ADVANCED
