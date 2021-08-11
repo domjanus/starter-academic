@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Ecological impacts of invasive Canada Geese in the Fraser River Estuary
+    tag: Canada Geese
+  - name: Invasive Canada Geese in Metro Vancouver
+    tag: Canada Geese
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
