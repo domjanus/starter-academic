@@ -3,7 +3,7 @@ widget: about
 widget_id: RECENT-POSTS
 headless: true
 weight: 20
-title: Hello world
+title: Hello
 active: true
 author: admin
 design:
